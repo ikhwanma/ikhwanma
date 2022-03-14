@@ -7,6 +7,9 @@ fun main(){
   println("Hello, my name is $name, you can call me $nickname")
 }
 ```
+> <p>Output:</p>
+> Hello, my name is Ikhwan Maulana Akbar, you can call me Ikhwan
+
 ### Connect With Me
 <a href="https://www.linkedin.com/in/ikhwanma/" target="_blank"><img align="left" alt="linkedin ikhwanma" width="22px" src="https://user-images.githubusercontent.com/43781583/158040830-3608f31d-ed6a-4488-a4ef-6e08d1a7284c.png" /></a>
 <a href="https://www.instagram.com/ikhwanma/" target="_blank"><img align="left" alt="instagram ikhwanma" width="22px" src="https://user-images.githubusercontent.com/43781583/158040831-aa6e84df-0795-47d6-afd7-6a037d4a99fa.png" /></a>
