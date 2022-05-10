@@ -13,7 +13,9 @@ fun main(){
 ### Connect With Me
 <a href="https://www.linkedin.com/in/ikhwanma/" target="_blank"><img align="left" alt="linkedin ikhwanma" width="22px" src="https://user-images.githubusercontent.com/43781583/158040830-3608f31d-ed6a-4488-a4ef-6e08d1a7284c.png" /></a>
 <a href="https://www.instagram.com/ikhwanma/" target="_blank"><img align="left" alt="instagram ikhwanma" width="22px" src="https://user-images.githubusercontent.com/43781583/158040831-aa6e84df-0795-47d6-afd7-6a037d4a99fa.png" /></a>
+<a href="https://g.dev/ikhwanma" target="_blank"><img align="left" alt="instagram ikhwanma" width="22px" src="https://user-images.githubusercontent.com/43781583/167575912-73c5f8d8-9355-4b42-a61d-e2f84e22bc20.png" /></a>
 <br/>
+
 ### Languages and Tools
 <p>
   <img align="left" alt="img kotlin" width="22px" src="https://user-images.githubusercontent.com/43781583/158040940-bfb02c58-34e6-4026-8aae-a0203fd0616c.png" />
@@ -29,4 +31,8 @@ fun main(){
 <br/>
 
 ## &#x1f4c8; GitHub Stats
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhwanma&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=15" alt="ikhwanma" /></p>
+![](https://komarev.com/ghpvc/?username=ikhwanma&color=blue&style=for-the-badge&label=VISITOR)
+<p>
+<img src= "https://github-readme-stats.vercel.app/api?username=ikhwanma&count_private=true&theme=cobalt"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhwanma&show_icons=true&locale=en&layout=compact&theme=cobalt&border_radius=15" alt="ikhwanma" /></p>
+
